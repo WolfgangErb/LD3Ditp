@@ -1,5 +1,5 @@
 # LD3Ditp
-3D polynomial interpolation on the node points of degenerate Lissajous curves
+3D polynomial interpolation on the nodes of degenerate 3D-Lissajous curves
 --------------------------------------------------------------------------------
 
 Copyright (C) 2016 by Peter Dencker and Wolfgang Erb
