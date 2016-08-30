@@ -42,7 +42,7 @@ Citation and Credits
 
 The theory related to this package was developed by P. Dencker and W. Erb in
 
-[1] Dencker, P and Erb, W., 
+[1] Dencker, P. and Erb, W., 
     Multivariate polynomial interpolation on Lissajous-Chebyshev nodes,
     arXiv:1511.04564 [math.NA] (2016)
 
