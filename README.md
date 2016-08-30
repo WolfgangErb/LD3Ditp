@@ -1,7 +1,8 @@
 # LD3Ditp
 3D polynomial interpolation at the node points of degenerate 3D-Lissajous curves
+--------------------------------------------------------------------------------
 
-Copyright (C) 2016 Peter Dencker and Wolfgang Erb
+Copyright (C) 2016 by Peter Dencker and Wolfgang Erb
 
 This package was developed and written by Peter Dencker and Wolfgang Erb 
 at the Institute of Mathematics, University of Luebeck.
@@ -34,7 +35,6 @@ plot_Lissajous3D.m
  
 
 Version: 0.2 (01.07.2016)
--------------------------
 
 
 Citation and Credits
