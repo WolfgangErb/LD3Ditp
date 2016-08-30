@@ -1,5 +1,5 @@
 # LD3Ditp
-3D polynomial interpolation at the node points of degenerate 3D-Lissajous curves
+3D polynomial interpolation on the node points of degenerate Lissajous curves
 --------------------------------------------------------------------------------
 
 Copyright (C) 2016 by Peter Dencker and Wolfgang Erb
@@ -42,10 +42,10 @@ Citation and Credits
 
 The theory related to this package was developed by P. Dencker and W. Erb in
 
-[1] Dencker, P and Erb, W.
+[1] Dencker, P and Erb, W., 
     Multivariate polynomial interpolation on Lissajous-Chebyshev nodes,
     arXiv:1511.04564 [math.NA] (2016)
 
 
-The file plotregion.m was Written by Per Bergström 2006-01-16. In this package it is used as 
+The file plotregion.m was written by Per Bergström 2006-01-16. In this package it is used as 
 an auxiliary program in plot_Lissajous3D.m to plot the polygonal boundary of the index sets. 
