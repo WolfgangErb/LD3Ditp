@@ -2,7 +2,7 @@
 3D polynomial interpolation on the nodes of degenerate 3D-Lissajous curves
 --------------------------------------------------------------------------------
 
-<img src="img/Lissajous3D.jpg" width="400"> &nbsp;&nbsp;&nbsp; <img src="img/indexset3D.png" width="425">
+<img src="img/Lissajous3D.jpg" width="350"> &nbsp;&nbsp;&nbsp; <img src="img/indexset3D.png" width="370">
 
 Version: 0.2 (01.07.2016)
 
