@@ -24,7 +24,7 @@ along with this program. If not, see <http://www.gnu.org/licenses/>.
 Description
 -----------
 
-![alt tag](img/Lissajous3D.jpg)
+![alt tag](img/Lissajous3D.jpg) ![alt tag](img/Lissajous3D.jpg)
 
 The package LD3Ditp contains a Matlab-implementation for 3D polynomial interpolation on 
 the node points LD of degenerate 3D-Lissajous curves. 
