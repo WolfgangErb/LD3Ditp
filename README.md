@@ -24,7 +24,7 @@ along with this program. If not, see <http://www.gnu.org/licenses/>.
 Description
 -----------
 
-<img src="img/Lissajous3D.jpg" width="256"> <img src="img/Indexset3D.jpg" width="256">
+    <img src="img/Lissajous3D.jpg" width="450">    <img src="img/Indexset3D.jpg" width="450">
 
 
 The package LD3Ditp contains a Matlab-implementation for 3D polynomial interpolation on 
