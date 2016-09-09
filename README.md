@@ -28,8 +28,11 @@ Citation and Credits
 
 The theory related to this package was developed by P. Dencker and W. Erb in
 
-    [1] Dencker, P. and Erb, W., 
-        <i> Multivariate polynomial interpolation on Lissajous-Chebyshev nodes </i>, arXiv:1511.04564 \[math.NA\] (2016)
+<ol>
+<li> Dencker, P. and Erb, W., 
+        <i> Multivariate polynomial interpolation on Lissajous-Chebyshev nodes </i>, arXiv:1511.04564 \[math.NA\] (2016)</li>
+</ol>
+    
 
 
 The file plotregion.m was written by Per Bergström 2006-01-16. In this package it is used as 
