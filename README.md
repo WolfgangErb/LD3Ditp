@@ -24,7 +24,7 @@ along with this program. If not, see <http://www.gnu.org/licenses/>.
 Description
 -----------
 
-<img src="img/Lissajous3D.jpg" width="400">  <img src="img/indexset3D.png" width="450">
+<img src="img/Lissajous3D.jpg" width="400"> &nbsp;&nbsp;&nbsp; <img src="img/indexset3D.png" width="420">
 
 
 
