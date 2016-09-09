@@ -4,11 +4,14 @@
 
 <img src="img/Lissajous3D.jpg" width="400"> &nbsp;&nbsp;&nbsp; <img src="img/indexset3D.png" width="425">
 
+Version: 0.2 (01.07.2016)
+
+Developed by <a href="http://www.math.uni-luebeck.de/mitarbeiter/dencker/index.php"> Peter Dencker</a> and 
+<a href="http://math.hawaii.edu/~erb/index.html"> Wolfgang Erb</a>
+
 
 Description
 -----------
-
-Version: 0.2 (01.07.2016)
 
 The package LD3Ditp contains a Matlab-implementation for 3D polynomial interpolation on 
 the node points LD of degenerate 3D-Lissajous curves. 
@@ -27,7 +30,7 @@ The theory related to this package was developed by P. Dencker and W. Erb in
 
 <ul>
 <li> Dencker, P. and Erb, W. <br>
- <i> Multivariate polynomial interpolation on Lissajous-Chebyshev nodes </i> <br> <a href="http://arxiv.org/pdf/1511.04564"> arXiv:1511.04564 [math.NA]</a>) (2016)</li>
+ <i> Multivariate polynomial interpolation on Lissajous-Chebyshev nodes </i> <br> <a href="http://arxiv.org/pdf/1511.04564"> arXiv:1511.04564 [math.NA]</a> (2016)</li>
 </ul>
     
 
