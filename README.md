@@ -18,9 +18,6 @@ main_example.m
 
 For plotting 3D degenerate Lissajous curves and the LD points use
 plot_Lissajous3D.m
- 
-
-
 
 
 Citation and Credits
@@ -30,7 +27,7 @@ The theory related to this package was developed by P. Dencker and W. Erb in
 
 <ul>
 <li> Dencker, P. and Erb, W. <br>
- <i> Multivariate polynomial interpolation on Lissajous-Chebyshev nodes </i> <br> arXiv:1511.04564 \[math.NA\] (2016)</li>
+ <i> Multivariate polynomial interpolation on Lissajous-Chebyshev nodes </i> <br> <a href="http://arxiv.org/pdf/1511.04564"> arXiv:1511.04564 [math.NA]</a>) (2016)</li>
 </ul>
     
 
@@ -43,7 +40,7 @@ License
 
 Copyright (C) 2016 by Peter Dencker and Wolfgang Erb
 
-This package was developed and written by Peter Dencker and Wolfgang Erb 
+This package was developed by Peter Dencker and Wolfgang Erb 
 at the Institute of Mathematics, University of Luebeck.
 
 LD3Ditp is free software: you can redistribute it and/or modify
