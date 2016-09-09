@@ -2,6 +2,8 @@
 3D polynomial interpolation on the nodes of degenerate 3D-Lissajous curves
 --------------------------------------------------------------------------------
 
+<img src="img/Lissajous3D.jpg" width="400"> &nbsp;&nbsp;&nbsp; <img src="img/indexset3D.png" width="425">
+
 Copyright (C) 2016 by Peter Dencker and Wolfgang Erb
 
 This package was developed and written by Peter Dencker and Wolfgang Erb 
@@ -24,7 +26,7 @@ along with this program. If not, see <http://www.gnu.org/licenses/>.
 Description
 -----------
 
-<img src="img/Lissajous3D.jpg" width="400"> &nbsp;&nbsp;&nbsp; <img src="img/indexset3D.png" width="430">
+
 
 
 
