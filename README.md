@@ -13,14 +13,14 @@ Developed by <a href="http://www.math.uni-luebeck.de/mitarbeiter/dencker/index.p
 Description
 -----------
 
-The package LD3Ditp contains a Matlab-implementation for 3D polynomial interpolation on 
+The package LD3Ditp contains a Matlab implementation for 3D polynomial interpolation on 
 the node points LD of degenerate 3D-Lissajous curves. 
 
 The main test file for interpolation is
 main_example.m
 
-For plotting 3D degenerate Lissajous curves and the LD points use
-plot_Lissajous3D.m
+For plotting 3D degenerate Lissajous curves, the LD points as well as the index sets used in the 
+polynomial interpolation use plot_Lissajous3D.m
 
 <img src="img/testfun1.jpg" width="400"> &nbsp;&nbsp;&nbsp; <img src="img/testfun2.jpg" width="400">
 
