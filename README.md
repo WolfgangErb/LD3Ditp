@@ -22,6 +22,8 @@ main_example.m
 For plotting 3D degenerate Lissajous curves and the LD points use
 plot_Lissajous3D.m
 
+<img src="img/testfun1.jpg" width="400"> &nbsp;&nbsp;&nbsp; <img src="img/testfun2.jpg" width="400">
+
 
 Citation and Credits
 --------------------
