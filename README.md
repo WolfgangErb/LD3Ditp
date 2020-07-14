@@ -7,20 +7,20 @@
 Version: 0.2 (01.07.2016)
 
 Developed by <a href="http://www.math.uni-luebeck.de/mitarbeiter/dencker/index.php"> Peter Dencker</a> and 
-<a href="http://math.hawaii.edu/~erb/index.html"> Wolfgang Erb</a>
+<a href="http://www.lissajous.it"> Wolfgang Erb</a>
 
 
 Description
 -----------
 
-The package LD3Ditp contains a Matlab implementation for 3D polynomial interpolation on 
+The package LD3Ditp contains a Matlab and a Python implementation for 3D polynomial interpolation on 
 the node points LD of degenerate 3D-Lissajous curves. 
 
-The main test file for interpolation is
-main_example.m
+The main test file for the interpolation are  
+main_example.m and main_example.py
 
 For plotting 3D degenerate Lissajous curves, the LD points as well as the index sets used in the 
-polynomial interpolation use plot_Lissajous3D.m
+polynomial interpolation use plot_Lissajous3D.m or plot_LD3D.py, respectively. 
 
 <img src="img/testfun1.jpg" width="400"> &nbsp;&nbsp;&nbsp; <img src="img/testfun2.jpg" width="400">
 
@@ -32,12 +32,13 @@ The theory related to this package was developed by P. Dencker and W. Erb in
 
 <ul>
 <li> Dencker, P. and Erb, W. <br>
- <i> Multivariate polynomial interpolation on Lissajous-Chebyshev nodes </i> <br> <a href="http://arxiv.org/pdf/1511.04564"> arXiv:1511.04564 [math.NA]</a> (2016)</li>
+ <i> Multivariate polynomial interpolation on Lissajous-Chebyshev nodes </i> <br> 
+ J. Approx. Theory 219 (2017), 15-45 (<a href="http://arxiv.org/pdf/1511.04564">Preprint</a>) </li>
 </ul>
     
 
 
-The file plotregion.m was written by Per Bergström 2006-01-16. In this package it is used as 
+The file plotregion.m in the Matlab package was written by Per Bergström 2006-01-16. In this package it is used as 
 an auxiliary program in plot_Lissajous3D.m to plot the polygonal boundary of the index sets. 
 
 License
