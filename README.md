@@ -16,7 +16,7 @@ Description
 The package LD3Ditp contains a Matlab and a Python implementation for 3D polynomial interpolation on 
 the node points LD of degenerate 3D-Lissajous curves. 
 
-The main test file for the interpolation are  
+The main test files for 3D polynomial interpolation are  
 main_example.m and main_example.py
 
 For plotting 3D degenerate Lissajous curves, the LD points as well as the index sets used in the 
