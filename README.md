@@ -44,7 +44,7 @@ an auxiliary program in plot_Lissajous3D.m to plot the polygonal boundary of the
 License
 -------
 
-Copyright (C) 2016 by Peter Dencker and Wolfgang Er
+Copyright (C) 2016 by Peter Dencker and Wolfgang Erb
 
 This package was developed by Peter Dencker and Wolfgang Erb 
 at the Institute of Mathematics, University of Luebeck.
